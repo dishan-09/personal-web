@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.h {
+    font-size: 40px;
+}
+
+#app {
+    background-color: cadetblue;
+}
+
+#chatbot {
+    height: 800px;
+}
+
+img {
+    transition: transform 0.2s;
+}
+
+img:hover {
+    transform: scale(1.2)
+}
+
+#games {
+    background-color: bisque;
+}
+
+#chatbot {
+    background-color: coral;
+}
